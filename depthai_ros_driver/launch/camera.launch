@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <launch>
 
-    <arg name="pass_tf_args_as_params" default="false" />
+    <arg name="pass_tf_args_as_params" default="true" />
     <arg name="imu_from_descr" default="false" />
     <arg name="override_cam_model" default="false" />
 
